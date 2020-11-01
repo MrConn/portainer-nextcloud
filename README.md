@@ -16,6 +16,6 @@ Since Portainer doesn't come with an App Template for NextCloud, you can use the
 * Name would be NextCloud, and Logo for NextCloud can be: https://cdn.rawgit.com/docker-library/docs/e563b6cd3d797e2b3695576d20041227d1fb7536/nextcloud/logo.svg
 * Change the Platform to Linux
 * Select Storage as the category
-* The Github Repo will be: https://github.com/tvollscw/portainer-nextcloud
+* The Github Repo will be: https://github.com/MrConn/portainer-nextcloud
 * The Compose File Path will be: docker-compose.yml
 * Create the template, search for it in your App Template Index, select the new NextCloud Template, then within it you will have the option to Deploy the Stack.
